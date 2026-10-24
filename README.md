@@ -85,7 +85,10 @@ John Smith, 123458           ← missing NO and DEPARTMENT
 | Use lowercase names | Use UPPERCASE for full name |
 | Add multiple rows | Add exactly ONE row |
 | Commit directly to `main` | Always use a new branch + pull request |
-
+No|26
+Name|Martha William Duob Ngol 
+Index|22_Dcs_095
+Department|Computer science 
 
 
 
